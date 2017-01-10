@@ -1,0 +1,1 @@
+{"version":3,"sources":["Components/_component.scss"],"names":[],"mappings":"AAGI;EACI,YAAW,EACd","file":"main.css","sourcesContent":["// ------------- COMPONENT STYLES ------------- //\n\n.component {\n    &-attribute {\n        color: #000;\n    }\n}"]}
